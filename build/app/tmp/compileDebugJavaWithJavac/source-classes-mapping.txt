@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/tcc_rafael/BuildConfig.java
+ com.tcc_rafael.BuildConfig
